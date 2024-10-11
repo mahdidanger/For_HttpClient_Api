@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\C#\ForAPI\ForAPI\bin\Debug\net8.0\ForAPI.exe
+C:\Users\PC\Desktop\C#\ForAPI\ForAPI\bin\Debug\net8.0\ForAPI.deps.json
+C:\Users\PC\Desktop\C#\ForAPI\ForAPI\bin\Debug\net8.0\ForAPI.runtimeconfig.json
+C:\Users\PC\Desktop\C#\ForAPI\ForAPI\bin\Debug\net8.0\ForAPI.dll
+C:\Users\PC\Desktop\C#\ForAPI\ForAPI\bin\Debug\net8.0\ForAPI.pdb
+C:\Users\PC\Desktop\C#\ForAPI\ForAPI\obj\Debug\net8.0\ForAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\ForAPI\ForAPI\obj\Debug\net8.0\ForAPI.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\ForAPI\ForAPI\obj\Debug\net8.0\ForAPI.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\ForAPI\ForAPI\obj\Debug\net8.0\ForAPI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\ForAPI\ForAPI\obj\Debug\net8.0\ForAPI.dll
+C:\Users\PC\Desktop\C#\ForAPI\ForAPI\obj\Debug\net8.0\refint\ForAPI.dll
+C:\Users\PC\Desktop\C#\ForAPI\ForAPI\obj\Debug\net8.0\ForAPI.pdb
+C:\Users\PC\Desktop\C#\ForAPI\ForAPI\obj\Debug\net8.0\ForAPI.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\ForAPI\ForAPI\obj\Debug\net8.0\ref\ForAPI.dll
