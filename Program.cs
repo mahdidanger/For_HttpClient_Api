@@ -7,12 +7,12 @@ class Program
     {
         var client = new ProductClient();
 
-        // دریافت محصولات
+        
         await client.GetProductsAsync();
 
-        // افزودن محصول جدید
-        var newProduct = new Product { Name = "Product1", Price = 99.99M };
-        await client.AddProductAsync(newProduct);
+        
+        var NewProduct = new Product { Name = "Phone", Price = 100.00 };
+        await client.AddProductAsync(NewProduct);
     }
 }
 
